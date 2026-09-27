@@ -92,6 +92,7 @@ Everything you may want to change is in `config.py`:
 
 Working prototype. The case is a small wooden box I had at home.
 Next step: design and 3D print a proper case. See [docs/SPECS.md](docs/SPECS.md#next-step-3d-printed-case).
+
 ## License
 
 MIT, see [LICENSE](LICENSE).
