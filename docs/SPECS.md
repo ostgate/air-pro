@@ -17,6 +17,7 @@
 ## Software
 
 - CircuitPython 10.x, board `adafruit_qualia_s3_rgb666`
+  ([download](https://circuitpython.org/board/adafruit_qualia_s3_rgb666/))
 - Libraries in `lib/`: `adafruit_sen6x`, `adafruit_sht4x`, `adafruit_seesaw`,
   `adafruit_display_text`, `adafruit_display_shapes`, `adafruit_bitmap_font`, `adafruit_bus_device`
 - Fonts in `fonts/`: Roboto 47 px and Roboto Clock 120 px (PCF)

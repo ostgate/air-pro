@@ -41,7 +41,8 @@ More photos and the full parts list are in [docs/SPECS.md](docs/SPECS.md).
 
 ## How to install
 
-1. Flash CircuitPython 10.x for `adafruit_qualia_s3_rgb666` on the board.
+1. Flash CircuitPython 10.x on the board. Download it here:
+   [circuitpython.org/board/adafruit_qualia_s3_rgb666](https://circuitpython.org/board/adafruit_qualia_s3_rgb666/)
 2. Plug the board into your computer. A drive called `CIRCUITPY` appears.
 3. Copy everything from this repo to the root of `CIRCUITPY`:
    `code.py`, `*.py`, `fonts/`, `lib/`.
